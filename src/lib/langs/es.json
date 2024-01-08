@@ -1,0 +1,19 @@
+{
+	"title_first": "Guía",
+	"title_second": "Al Mundo",
+	"title_third": "En La Noche",
+	"about_title": "Sobre Nosotros",
+	"about_description": "Bienvenido a Fireworks, su principal destino para exhibiciones pirotécnicas deslumbrantes y celebraciones explosivas. Como empresa líder en fuegos artificiales, nos especializamos en crear momentos inolvidables en el cielo nocturno, transformando eventos ordinarios en espectáculos extraordinarios.",
+	"gallery_title": "Galeria",
+	"testimonies_title": "Testimonios",
+	"contact_title": "Contactanos",
+	"form_name": "Nombre",
+	"form_subject": "Asunto",
+	"form_message": "Mensaje",
+	"form_button": "Enviar",
+	"error_name_required": "El nombre es requerido",
+	"error_email_required": "El email es requerido",
+	"error_email_incorrect": "El email es invalido",
+	"error_message_required": "El mensaje es requerido",
+	"days": "lun - dom"
+}

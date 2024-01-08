@@ -1,0 +1,54 @@
+:root {
+	--dark-50: hsla(0deg, 0%, 0%, 50%);
+	--dark-100: hsla(0deg, 0%, 0%, 100%);
+	--light-100: hsla(0deg, 0%, 100%, 100%);
+	--light-50: hsla(0deg, 0%, 100%, 50%);
+	--primary-100: hsla(340deg, 76%, 48%, 100%);
+	--error-100: red;
+	--fs-small: 1rem;
+	--fs-normal: 1.25rem;
+	--fs-medium: 1.5rem;
+	--fs-big: 2rem;
+	--fs-very-big: 3rem;
+	--fs-xs: 4rem;
+	--fs-xxs: 6rem;
+}
+
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+	background-attachment: fixed;
+	background-image: linear-gradient(var(--dark-50), var(--dark-50)), url(./images/bg.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+	color: red;
+}
+
+.swiper-button-next:after,
+.swiper-button-prev:after {
+	font-size: 30px;
+}
+
+.swiper-button-next.swiper-button-disabled,
+.swiper-button-prev.swiper-button-disabled {
+	opacity: 0;
+}
+
+.swiper-pagination-bullet-active {
+	background-color: red !important;
+}
+
+.swiper-pagination-bullet {
+	background-color: rgba(255, 0, 0, 0.5);
+}

@@ -10,4 +10,12 @@ declare global {
 	}
 }
 
-export {};
+declare module 'Fa';
+
+declare module 'svelte-fa/src/fa.svelte' {
+	export * from 'svelte-fa/src';
+}
+
+declare module '@fortawesome/free-solid-svg-icons/index' {
+	export * from '@fortawesome/free-solid-svg-icons';
+}

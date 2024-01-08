@@ -1,0 +1,19 @@
+{
+	"title_first": "Guide",
+	"title_second": "The World",
+	"title_third": "In The Night",
+	"about_title": "About Us",
+	"about_description": "Welcome to Fireworks, your premier destination for dazzling pyrotechnic displays and explosive celebrations. As a leading fireworks company, we specialize in crafting unforgettable moments in the night sky, transforming ordinary events into extraordinary spectacles.",
+	"gallery_title": "Gallery",
+	"testimonies_title": "Testimonies",
+	"contact_title": "Contact Us",
+	"form_name": "Name",
+	"form_subject": "Subject",
+	"form_message": "Message",
+	"form_button": "Send",
+	"error_name_required": "Name is required",
+	"error_email_required": "Email is required",
+	"error_email_incorrect": "Email is not valid",
+	"error_message_required": "Message is required",
+	"days": "mon - sun"
+}
